@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/HomeUI.unity
+    guid: 92e48f49799de1e48a0d7c97fac58a08
+  - enabled: 1
+    path: Assets/Scenes/Markerless.unity
+    guid: 0e83af805b8711c4285b4b640852fabf
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: ac354bcf12e44204583b5f1fa8593130
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b23c563a0bb1c6146959b97440b87d85,
       type: 2}
