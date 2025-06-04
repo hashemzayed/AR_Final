@@ -1688,7 +1688,6 @@ GameObject:
   - component: {fileID: 6259931690160181753}
   - component: {fileID: 9139268397017558703}
   - component: {fileID: 3451450313088444264}
-  - component: {fileID: 4927539217547655196}
   m_Layer: 0
   m_Name: logic
   m_TagString: Untagged
@@ -1723,7 +1722,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44d3010cf7c5da74fa35d48b66d34836, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 0}
+  animator: {fileID: 5783733709481743114}
 --- !u!114 &3451450313088444264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1736,20 +1735,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f02aac577137f4c4f9f6d1850978cb1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &4927539217547655196
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8162198026767178771}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e9b4200b19a999a45be99c912e83e64f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  carRenderer: {fileID: 0}
-  colors: []
 --- !u!1 &8685212540251603966
 GameObject:
   m_ObjectHideFlags: 0
